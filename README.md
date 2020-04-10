@@ -6,3 +6,4 @@ We just collect overlooked UI demands.
 [OrgChart](https://github.com/dabeng/OrgChart)        [OrgChart.js](https://github.com/dabeng/OrgChart.js)  [OrgChart-WebComponents](https://github.com/dabeng/OrgChart-Webcomponents) [ng-chart](https://github.com/dabeng/ng-orgchart) [react-orgchart](https://github.com/dabeng/react-orgchart) [vue-orgchart](https://github.com/dabeng/vue-orgchart)
 
 ### I wanna show all text when my mouse is hovring over the text-overflow ellipsis
+Angular solution - https://stackblitz.com/edit/show-more-directive
